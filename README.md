@@ -1,4 +1,4 @@
-# Tratamiento_Datos_Graficos
+# Tratamiento Datos Dataset Netflix Data Analysis
 # Introducción
 Este conjunto de datos trata sobre películas y series de Netflix. Consta de 12 columnas con algunos valores nulos. Para su análisis se utilizan las bibliotecas Pandas, numpy, matplotlib y seaborn. El proceso de análisis se dividió en varias partes para un análisis paso a paso y para identificar las preguntas más populares en redes sociales sobre actores y actrices de Bollywood.
 
